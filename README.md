@@ -34,7 +34,7 @@ COVID-19 originally known as Corona VIrus Disease of 2019, has been declared as 
 
 <img width="503" alt="image" src="https://user-images.githubusercontent.com/76884379/217926175-445af3c2-aed9-4cf5-bfab-f39551c529a0.png">
 
-* All tweets data collected from the months of March and April 2020. Bar plot shows us the number of unique values in each column.
+* All tweets data collected from the months of March and April 2020. Bar plot shows us the number of tweets as per days of the month.
 
 <img width="482" alt="image" src="https://user-images.githubusercontent.com/76884379/217926507-cee94cce-0e35-43bd-8ae6-0f93673fa393.png">
 
@@ -91,6 +91,7 @@ COVID-19 originally known as Corona VIrus Disease of 2019, has been declared as 
 
 * At the end we conclude that in our project with 6 models namely Naive Bayes Classifier,Stochastic Gradient Descent, Random Forest Classifier,Support Vector Machine, Logistic Regression and CatBoost. We are getting the highest test accuracy of about **80.98%** with **Stochastic Gradient Descent**.
 
+![Capture9](https://user-images.githubusercontent.com/82259772/130586434-d070da2a-18df-4d34-aa76-3d38a1e77a7c.PNG)
 
 
 
