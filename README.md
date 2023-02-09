@@ -28,19 +28,21 @@ COVID-19 originally known as Corona VIrus Disease of 2019, has been declared as 
 
 * There are 20.87%(8567) null values in various places of location column. 
 
-![image](https://user-images.githubusercontent.com/76884379/217925389-7d72a76d-1e35-4f1c-a106-b788c0cfce33.png)
+<img width="614" alt="image" src="https://user-images.githubusercontent.com/76884379/217925864-1d0e75f4-9c8e-493d-a750-01d8a8d15805.png">
 
 * There are five types of sentiments- Extremely Negative, Negative, Neutral, Positive and Extremely Positive.
 
-![image](https://user-images.githubusercontent.com/76884379/217918688-b2ec8539-367c-4ab4-a4ab-a35c4c051b85.png)
+<img width="503" alt="image" src="https://user-images.githubusercontent.com/76884379/217926175-445af3c2-aed9-4cf5-bfab-f39551c529a0.png">
 
 * All tweets data collected from the months of March and April 2020. Bar plot shows us the number of unique values in each column.
 
-![image](https://user-images.githubusercontent.com/76884379/217919720-1c37a11d-d853-444d-afaa-512cc94f5fde.png)
+<img width="482" alt="image" src="https://user-images.githubusercontent.com/76884379/217926507-cee94cce-0e35-43bd-8ae6-0f93673fa393.png">
 
 * Most of the tweets came from London followed by U.S.
 
-![image](https://user-images.githubusercontent.com/76884379/217920064-061464a2-8f48-440b-af3d-a403ca8cb7dc.png)
+<img width="556" alt="image" src="https://user-images.githubusercontent.com/76884379/217926699-f155afcd-16fb-4c88-a67b-02e9b2ef9342.png">
+
+<img width="560" alt="image" src="https://user-images.githubusercontent.com/76884379/217926851-ffeaef94-4d9f-44ef-9303-6439f9119b18.png">
 
 # Data Preprocessing
 
