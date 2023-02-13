@@ -1,4 +1,8 @@
-# **COVID-19-Tweet-Sentiment-Analysis**
+# **<h3 align="center">COVID-19 Tweet Sentiment Analysis</h1>**
+<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
+<p align="center">
+  <img width="1000" height="300" src="https://user-images.githubusercontent.com/107030716/204017034-7ec59d88-977b-43fa-bd9c-a969561fe12e.png">
+</p>
 
 # Problem Description 
 
